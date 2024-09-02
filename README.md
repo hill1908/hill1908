@@ -3,7 +3,8 @@ Bem-vindo ao meu perfil
 
 meu nome é Hillary Oliveira
 
- Estou estudando na alura
+ Estou estudando na [alura](https://www.alura.com.br)
+
  
  Estou me desenvolvendo na linguagem JavaScript
  
@@ -16,5 +17,4 @@ meu nome é Hillary Oliveira
 
 @hill_oliveira
 
-![](https://tenor.com/pt-BR/view/greys-anatomy-miranda-bailey-happy-excited-celebrate-gif-21577904
-)
+![](https://tenor.com/pt-BR/view/greys-anatomy-miranda-bailey-happy-excited-celebrate-gif-21577904)
